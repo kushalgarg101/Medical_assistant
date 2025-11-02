@@ -1,0 +1,445 @@
+[
+  {
+    "patient_name": "John Smith",
+    "discharge_date": "2024-01-15",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Lisinopril 10 mg daily",
+      "Furosemide 20 mg twice daily"
+    ],
+    "dietary_restrictions": "Low sodium (≤2 g/day), fluid restriction 1.5 L/day, limit potassium if hyperkalemic",
+    "follow_up": "Nephrology clinic in 2 weeks; repeat BMP and urine test in 1 week",
+    "warning_signs": "Swelling, shortness of breath, decreased urine output, sudden weight gain (>2 kg/48 h)",
+    "discharge_instructions": "Monitor blood pressure and weight daily; bring medication list to clinic; hold NSAIDs and report dizziness or lightheadedness"
+  },
+  {
+    "patient_name": "Maria Gonzalez",
+    "discharge_date": "2025-02-10",
+    "primary_diagnosis": "Community-acquired Pneumonia (moderate)",
+    "medications": [
+      "Amoxicillin-clavulanate 875/125 mg twice daily for 7 days",
+      "Albuterol inhaler as needed"
+    ],
+    "dietary_restrictions": "No specific restrictions; maintain hydration",
+    "follow_up": "Primary care visit in 48–72 hours or earlier if worse; chest X-ray in 6–8 weeks if persistent symptoms",
+    "warning_signs": "Increasing shortness of breath, high fever >38.5°C (101.3°F), chest pain, confusion",
+    "discharge_instructions": "Finish antibiotics; use inhaler as directed; rest and hydrate; seek urgent care for worsening breathing or fever"
+  },
+  {
+    "patient_name": "David Patel",
+    "discharge_date": "2025-03-22",
+    "primary_diagnosis": "Acute ST-elevation Myocardial Infarction (post-PCI)",
+    "medications": [
+      "Aspirin 81 mg daily",
+      "Clopidogrel 75 mg daily",
+      "Atorvastatin 80 mg nightly",
+      "Metoprolol tartrate 25 mg twice daily"
+    ],
+    "dietary_restrictions": "Low saturated fat, low sodium; heart-healthy diet",
+    "follow_up": "Cardiology clinic in 1 week; cardiac rehabilitation referral",
+    "warning_signs": "Chest pain or pressure, fainting, worsening shortness of breath, new palpitations",
+    "discharge_instructions": "Take antiplatelet therapy as prescribed (do not stop without cardiology); slowly increase activity per rehab plan; emergency department for recurrent chest pain"
+  },
+  {
+    "patient_name": "Aisha Khan",
+    "discharge_date": "2025-05-05",
+    "primary_diagnosis": "Type 2 Diabetes Mellitus — Hyperglycemia (transitioned to basal-bolus insulin)",
+    "medications": [
+      "Insulin glargine 20 units nightly (basal)",
+      "Insulin lispro with meals per sliding scale",
+      "Metformin 500 mg twice daily"
+    ],
+    "dietary_restrictions": "Carbohydrate-counted meals; avoid simple sugars; maintain consistent meal timing",
+    "follow_up": "Endocrinology or diabetes educator in 1 week to titrate insulin; blood glucose log review",
+    "warning_signs": "Blood glucose <70 mg/dL or >300 mg/dL persistently, excessive thirst, vomiting",
+    "discharge_instructions": "Teach insulin administration and hypoglycemia treatment (15 g fast-acting carbohydrate); keep BG log and bring to follow-up; do not stop metformin without consulting provider"
+  },
+  {
+    "patient_name": "Liam O'Connor",
+    "discharge_date": "2024-11-12",
+    "primary_diagnosis": "Left ischemic stroke with minor residual right-sided weakness",
+    "medications": [
+      "Aspirin 81 mg daily",
+      "Atorvastatin 40 mg nightly",
+      "Losartan 50 mg daily"
+    ],
+    "dietary_restrictions": "Low sodium; heart-healthy diet",
+    "follow_up": "Neurology clinic in 2 weeks; outpatient physical and occupational therapy",
+    "warning_signs": "Sudden worsening of weakness, new slurred speech, facial droop, severe headache",
+    "discharge_instructions": "Continue medications; perform prescribed home exercises; call emergency services for signs of recurrent stroke"
+  },
+  {
+    "patient_name": "Chen Wei",
+    "discharge_date": "2025-07-18",
+    "primary_diagnosis": "Acute Appendicitis — Post laparoscopic appendectomy (uncomplicated)",
+    "medications": [
+      "Acetaminophen 500–1000 mg every 6–8 hours as needed (max 3 g/day)",
+      "Cephalexin 500 mg twice daily for 3 days (if indicated)"
+    ],
+    "dietary_restrictions": "Advance diet as tolerated; start with clear fluids then soft diet",
+    "follow_up": "Surgical clinic in 7–14 days",
+    "warning_signs": "Fever >38°C, increasing abdominal pain, redness or drainage at incision, vomiting",
+    "discharge_instructions": "Keep incisions clean and dry; avoid heavy lifting >10–15 kg and strenuous activity for 2–4 weeks; resume normal diet as tolerated"
+  },
+  {
+    "patient_name": "Olivia Brown",
+    "discharge_date": "2025-01-30",
+    "primary_diagnosis": "Chronic Heart Failure — Acute decompensation (now euvolemic)",
+    "medications": [
+      "Furosemide 40 mg daily (adjust per weight)",
+      "Lisinopril 5 mg daily",
+      "Bisoprolol 2.5 mg daily"
+    ],
+    "dietary_restrictions": "Strict low sodium ≤2 g/day; fluid restriction 1.5 L/day",
+    "follow_up": "Heart failure clinic or cardiology in 1 week; daily weights and home monitoring",
+    "warning_signs": "Rapid weight gain (>2 kg/48 h), worsening shortness of breath, increasing edema, lightheadedness",
+    "discharge_instructions": "Weigh daily and record; take diuretics as prescribed; seek urgent care for worsening breathing or swelling"
+  },
+  {
+    "patient_name": "Noah Müller",
+    "discharge_date": "2024-08-09",
+    "primary_diagnosis": "Community-acquired Cellulitis (left lower limb)",
+    "medications": [
+      "Cephalexin 500 mg four times daily for 7 days",
+      "Ibuprofen 200–400 mg every 6–8 hours as needed"
+    ],
+    "dietary_restrictions": "No specific restrictions; maintain hydration",
+    "follow_up": "Primary care or wound clinic in 48–72 hours to reassess",
+    "warning_signs": "Increasing redness, spreading warmth, fever, new drainage, severe pain",
+    "discharge_instructions": "Elevate the limb, keep dressing clean, complete antibiotic course; seek urgent care for systemic symptoms"
+  },
+  {
+    "patient_name": "Fatima Rahman",
+    "discharge_date": "2025-06-02",
+    "primary_diagnosis": "Acute Exacerbation of COPD (moderate) — discharged on inhaled therapy",
+    "medications": [
+      "Tiotropium inhaler 18 mcg once daily",
+      "Salmeterol-fluticasone inhaler two puffs twice daily",
+      "Prednisone 30 mg daily for 5 days"
+    ],
+    "dietary_restrictions": "No specific restrictions; avoid respiratory irritants",
+    "follow_up": "Pulmonology or primary care in 1 week; smoking cessation resources if applicable",
+    "warning_signs": "Worsening breathlessness, increasing sputum production or purulence, fever, confusion",
+    "discharge_instructions": "Use inhalers with spacer if needed; follow prednisone taper instructions; seek urgent care for worsening respiratory distress"
+  },
+  {
+    "patient_name": "Samuel Johnson",
+    "discharge_date": "2025-09-26",
+    "primary_diagnosis": "Uncomplicated Urinary Tract Infection",
+    "medications": [
+      "Nitrofurantoin 100 mg twice daily for 5 days",
+      "Phenazopyridine 200 mg three times daily for 2 days as needed for dysuria"
+    ],
+    "dietary_restrictions": "No specific restrictions; drink fluids",
+    "follow_up": "Primary care if symptoms persist after treatment",
+    "warning_signs": "Fever, flank pain, vomiting, persistent dysuria or hematuria",
+    "discharge_instructions": "Complete antibiotics; expect urine discoloration with phenazopyridine; return if fever or back pain"
+  },
+  {
+    "patient_name": "Priya Singh",
+    "discharge_date": "2025-04-11",
+    "primary_diagnosis": "Total Hip Arthroplasty — Postoperative (right)",
+    "medications": [
+      "Oxycodone 5–10 mg every 4–6 hours as needed (use lowest effective dose)",
+      "Acetaminophen 500 mg every 6–8 hours as needed",
+      "Enoxaparin 40 mg subcutaneously daily for DVT prophylaxis for 14 days"
+    ],
+    "dietary_restrictions": "Advance diet as tolerated",
+    "follow_up": "Orthopedics in 2 weeks; physical therapy starting within 48–72 hours",
+    "warning_signs": "Increasing leg swelling/pain, chest pain or shortness of breath, wound drainage, fever",
+    "discharge_instructions": "Use walker per PT recommendations; wound care instructions provided; perform home exercises; avoid high-impact activity for 6–12 weeks"
+  },
+  {
+    "patient_name": "Mohammed Al-Farsi",
+    "discharge_date": "2024-12-05",
+    "primary_diagnosis": "Acute Pancreatitis (mild) — resolved",
+    "medications": [
+      "Ondansetron 4 mg as needed for nausea",
+      "Acetaminophen 500 mg as needed for pain"
+    ],
+    "dietary_restrictions": "Initially clear fluids then low-fat diet as tolerated; avoid alcohol and high-fat meals",
+    "follow_up": "Gastroenterology clinic in 2–4 weeks; consider imaging or triglycerides check if indicated",
+    "warning_signs": "Worsening abdominal pain, persistent vomiting, fever, jaundice",
+    "discharge_instructions": "Resume low-fat diet gradually; avoid alcohol; seek care for worsening pain or inability to tolerate PO intake"
+  },
+  {
+    "patient_name": "Emily Davis",
+    "discharge_date": "2025-08-01",
+    "primary_diagnosis": "Acute Deep Vein Thrombosis (left leg)",
+    "medications": [
+      "Apixaban 10 mg twice daily for 7 days, then 5 mg twice daily (initiation regimen)"
+    ],
+    "dietary_restrictions": "No specific restrictions required for DOACs; avoid significant alcohol",
+    "follow_up": "Hematology or vascular medicine in 1 week; duplex ultrasound arranged per clinic",
+    "warning_signs": "Increasing leg swelling, pain, redness; sudden shortness of breath or chest pain (seek emergency)",
+    "discharge_instructions": "Take anticoagulant exactly as prescribed; avoid NSAIDs unless approved; use compression stockings as directed; report any bleeding"
+  },
+  {
+    "patient_name": "Alejandro Ramirez",
+    "discharge_date": "2025-10-10",
+    "primary_diagnosis": "Acute Gastroenteritis (viral, hydrated)",
+    "medications": [
+      "Oral rehydration as needed; Ondansetron 4 mg as needed for nausea"
+    ],
+    "dietary_restrictions": "BRAT diet initially (bananas, rice, applesauce, toast); advance as tolerated",
+    "follow_up": "Primary care if symptoms >48–72 hours or worsening",
+    "warning_signs": "High fever, persistent vomiting, bloody diarrhea, dizziness or signs of dehydration",
+    "discharge_instructions": "Maintain hydration with ORS; avoid dairy until tolerated; return if unable to keep liquids down or signs of dehydration"
+  },
+  {
+    "patient_name": "Hiroko Tanaka",
+    "discharge_date": "2025-02-28",
+    "primary_diagnosis": "Acute Exacerbation of Asthma (controlled, discharged on inhalers)",
+    "medications": [
+      "Budesonide-formoterol inhaler two puffs twice daily",
+      "Short course oral prednisone 40 mg daily for 5 days",
+      "Salbutamol inhaler for rescue"
+    ],
+    "dietary_restrictions": "No specific restrictions",
+    "follow_up": "Pulmonology or primary care in 1 week; provide asthma action plan",
+    "warning_signs": "Increasing wheeze, difficulty speaking, use of accessory muscles, peak flow <50% of personal best",
+    "discharge_instructions": "Follow asthma action plan; correct inhaler technique; seek emergency care for severe breathing difficulty"
+  },
+  {
+    "patient_name": "Jacob Lee",
+    "discharge_date": "2024-06-19",
+    "primary_diagnosis": "Community-acquired Bacterial Meningitis — completed IV antibiotics inpatient; switched to oral for course completion",
+    "medications": [
+      "Amoxicillin 1 g three times daily to complete prescribed course (per culture sensitivities)"
+    ],
+    "dietary_restrictions": "No specific restrictions",
+    "follow_up": "Infectious disease clinic in 1 week; repeat clinical exam and labs as arranged",
+    "warning_signs": "High fever, severe headache, neck stiffness, new neurological deficits, seizures",
+    "discharge_instructions": "Complete antibiotic course; avoid driving if on sedating meds; return for any new neurological symptoms"
+  },
+  {
+    "patient_name": "Sofia Petrova",
+    "discharge_date": "2025-09-02",
+    "primary_diagnosis": "Acute Exacerbation of Major Depressive Disorder (stabilized)",
+    "medications": [
+      "Sertraline 50 mg daily",
+      "Lorazepam 0.5 mg PRN for severe anxiety (short-term use)"
+    ],
+    "dietary_restrictions": "No specific restrictions",
+    "follow_up": "Psychiatry outpatient within 1 week; safety plan and crisis numbers provided",
+    "warning_signs": "Worsening depression, suicidal thoughts, new impulsivity or severe agitation",
+    "discharge_instructions": "Continue medications as directed; attend psychotherapy and psychiatry follow-up; seek immediate help for suicidal ideation"
+  },
+  {
+    "patient_name": "Ethan Baker",
+    "discharge_date": "2025-03-03",
+    "primary_diagnosis": "Acute Kidney Injury (prerenal) — resolved with fluids",
+    "medications": [
+      "Hold NSAIDs; resume home meds as advised; adjust dosing of renally cleared meds"
+    ],
+    "dietary_restrictions": "Maintain hydration; avoid high potassium foods until follow-up if hyperkalemia risk",
+    "follow_up": "Nephrology or primary care BMP in 3–7 days",
+    "warning_signs": "Decreased urine output, swelling, persistent nausea/vomiting",
+    "discharge_instructions": "Monitor urine output and weight; avoid nephrotoxins (NSAIDs, contrast) unless cleared; bring medication list to follow-up"
+  },
+  {
+    "patient_name": "Isabella Rossi",
+    "discharge_date": "2024-10-04",
+    "primary_diagnosis": "Community-acquired Otitis Media — unilateral",
+    "medications": [
+      "Amoxicillin 500 mg three times daily for 7 days",
+      "Acetaminophen for pain/fever"
+    ],
+    "dietary_restrictions": "No specific restrictions",
+    "follow_up": "Primary care in 48–72 hours if not improving; ENT referral if recurrent",
+    "warning_signs": "Severe ear pain, high fever, dizziness, hearing loss",
+    "discharge_instructions": "Finish antibiotics; warm compress for pain; avoid water in the ear until healed"
+  },
+  {
+    "patient_name": "Mateo Silva",
+    "discharge_date": "2025-05-20",
+    "primary_diagnosis": "Acute Exacerbation of Crohn's Disease — stabilized",
+    "medications": [
+      "Budesonide 9 mg daily taper as outpatient (per GI plan)",
+      "Mesalamine 1.2 g twice daily"
+    ],
+    "dietary_restrictions": "Low-residue diet during flare; avoid high-fiber foods until symptoms improve",
+    "follow_up": "Gastroenterology in 2 weeks; medication optimization discussion",
+    "warning_signs": "High fever, severe abdominal pain, persistent bleeding, inability to tolerate oral intake",
+    "discharge_instructions": "Adhere to medication taper; stay hydrated; seek care for severe symptoms"
+  },
+  {
+    "patient_name": "Zoe Martin",
+    "discharge_date": "2025-07-01",
+    "primary_diagnosis": "Superficial Partial-Thickness Burn — left forearm (healed/no graft)",
+    "medications": [
+      "Topical silver sulfadiazine as instructed for 3–5 days",
+      "Acetaminophen for pain as needed"
+    ],
+    "dietary_restrictions": "No specific restrictions",
+    "follow_up": "Burn/wound clinic in 5–7 days",
+    "warning_signs": "Increased redness, foul odor or purulent drainage, fever, increasing pain",
+    "discharge_instructions": "Keep dressing clean and dry; change per wound clinic instructions; tetanus status reviewed"
+  },
+  {
+    "patient_name": "Daniel Kim",
+    "discharge_date": "2025-08-30",
+    "primary_diagnosis": "Atrial Fibrillation with Rapid Ventricular Response (rate controlled)",
+    "medications": [
+      "Metoprolol succinate 50 mg daily (for rate control)",
+      "Apixaban 5 mg twice daily (anticoagulation)"
+    ],
+    "dietary_restrictions": "Avoid excess alcohol and large caffeine intake; maintain consistent diet",
+    "follow_up": "Cardiology within 1 week; anticoagulation clinic/INR not required for DOAC but monitor renal function",
+    "warning_signs": "Palpitations with dizziness/syncope, chest pain, shortness of breath",
+    "discharge_instructions": "Take anticoagulant as prescribed; nightly heart rate log recommended; seek immediate care for signs of stroke or major bleeding"
+  },
+  {
+    "patient_name": "Hanan Al-Sayed",
+    "discharge_date": "2025-06-14",
+    "primary_diagnosis": "Preeclampsia without severe features — postpartum stable",
+    "medications": [
+      "Labetalol 200 mg twice daily as needed for BP (per OB plan)"
+    ],
+    "dietary_restrictions": "No specific restrictions; maintain moderate sodium intake per obstetrics guidance",
+    "follow_up": "Obstetrics office in 3 days and blood pressure check within 48 hours",
+    "warning_signs": "Severe headache, visual changes, severe right upper quadrant pain, sudden swelling",
+    "discharge_instructions": "Monitor BP at home; avoid strenuous activity; seek emergency care for severe symptoms"
+  },
+  {
+    "patient_name": "Oliver Nguyen",
+    "discharge_date": "2025-04-07",
+    "primary_diagnosis": "Severe Bacterial Cellulitis with IV antibiotics completed — improving",
+    "medications": [
+      "Trimethoprim-sulfamethoxazole DS one tablet twice daily for 7 days (per culture)",
+      "Ibuprofen for pain"
+    ],
+    "dietary_restrictions": "No specific restrictions",
+    "follow_up": "Wound clinic or primary care in 48–72 hours",
+    "warning_signs": "Spreading redness, fever, increasing pain, new drainage",
+    "discharge_instructions": "Complete oral antibiotics; continue limb elevation; return for worsening infection"
+  },
+  {
+    "patient_name": "Grace Wilson",
+    "discharge_date": "2025-01-10",
+    "primary_diagnosis": "Iron Deficiency Anemia — outpatient oral iron started",
+    "medications": [
+      "Ferrous sulfate 325 mg (65 mg elemental iron) once daily at night with vitamin C or orange juice"
+    ],
+    "dietary_restrictions": "Avoid taking iron with calcium or dairy; take on empty stomach if tolerated",
+    "follow_up": "Hematology/primary care in 4 weeks with CBC and iron studies",
+    "warning_signs": "Severe weakness, shortness of breath, chest pain, black/tarry stools (report GI bleeding)",
+    "discharge_instructions": "Expect stool darkening; continue iron for at least 3 months after hemoglobin normalizes; report GI symptoms"
+  },
+  {
+    "patient_name": "Arjun Mehta",
+    "discharge_date": "2024-09-21",
+    "primary_diagnosis": "Acute Bacterial Sinusitis",
+    "medications": [
+      "Amoxicillin 500 mg three times daily for 7 days",
+      "Saline nasal rinse PRN",
+      "Ibuprofen PRN"
+    ],
+    "dietary_restrictions": "No specific restrictions",
+    "follow_up": "Primary care if symptoms persist beyond 10 days or worsen",
+    "warning_signs": "High fever, severe facial pain, vision changes, swelling around the eye",
+    "discharge_instructions": "Complete antibiotic course; use saline nasal irrigation; seek urgent care for ocular symptoms"
+  },
+  {
+    "patient_name": "Nora Svensson",
+    "discharge_date": "2025-03-29",
+    "primary_diagnosis": "Uncomplicated Low-risk Skin Abscess — I&D performed",
+    "medications": [
+      "Trimethoprim-sulfamethoxazole DS one tablet twice daily for 5 days (if indicated)",
+      "Acetaminophen for pain"
+    ],
+    "dietary_restrictions": "No specific restrictions",
+    "follow_up": "Wound clinic in 48–72 hours for packing removal and reassessment",
+    "warning_signs": "Increasing redness, fever, spreading cellulitis, increased drainage",
+    "discharge_instructions": "Keep wound covered and clean; change dressings as instructed; complete antibiotics if prescribed"
+  },
+  {
+    "patient_name": "Lucas Fernandez",
+    "discharge_date": "2025-11-04",
+    "primary_diagnosis": "Pneumothorax — small, stable, discharged with outpatient follow-up",
+    "medications": [
+      "Analgesics as needed (acetaminophen or ibuprofen)"
+    ],
+    "dietary_restrictions": "No specific restrictions; avoid air travel until cleared",
+    "follow_up": "Thoracic surgery or pulmonology in 3–5 days with repeat chest X-ray",
+    "warning_signs": "Sudden increased shortness of breath, chest pain, lightheadedness",
+    "discharge_instructions": "Avoid heavy exertion and air travel until specialist clearance; return for worsening symptoms"
+  },
+  {
+    "patient_name": "Amelia Thompson",
+    "discharge_date": "2025-02-16",
+    "primary_diagnosis": "Migraine, resolved with treatment",
+    "medications": [
+      "Sumatriptan 50–100 mg as needed at onset (per prior tolerability)",
+      "Propranolol 40 mg nightly for prevention (started outpatient)"
+    ],
+    "dietary_restrictions": "Avoid known dietary triggers (caffeine excess, certain cheeses) per patient history",
+    "follow_up": "Neurology or headache clinic in 4 weeks",
+    "warning_signs": "New focal neurological signs, severe atypical headache unlike prior migraines, persistent vomiting",
+    "discharge_instructions": "Use acute medication at onset; keep headache diary; seek urgent care for atypical features"
+  },
+  {
+    "patient_name": "Mateja Kovač",
+    "discharge_date": "2025-07-25",
+    "primary_diagnosis": "Superficial Venous Thrombosis (conservative management)",
+    "medications": [
+      "NSAID (e.g., ibuprofen) for pain as tolerated; consider short course low-molecular-weight heparin if propagation risk"
+    ],
+    "dietary_restrictions": "No specific restrictions",
+    "follow_up": "Vascular clinic in 1 week; duplex ultrasound if symptoms persist",
+    "warning_signs": "Worsening leg pain/swelling, signs of DVT, sudden shortness of breath",
+    "discharge_instructions": "Use compression stockings, elevate limb, mobilize regularly; return for worsening symptoms"
+  },
+  {
+    "patient_name": "Benjamin Clark",
+    "discharge_date": "2025-08-12",
+    "primary_diagnosis": "Acute Exacerbation of Alcoholic Hepatitis — improved",
+    "medications": [
+      "Thiamine 100 mg daily (IV/IM initially then PO as indicated)",
+      "Naltrexone deferred until abstinence confirmed (per addiction consult)"
+    ],
+    "dietary_restrictions": "Abstain from alcohol; moderate protein; avoid hepatotoxic medications",
+    "follow_up": "Hepatology and addiction medicine within 1–2 weeks",
+    "warning_signs": "Jaundice worsening, confusion, bleeding, severe abdominal pain",
+    "discharge_instructions": "Strict alcohol abstinence; nutritional support; seek urgent care for signs of hepatic decompensation"
+  },
+  {
+    "patient_name": "Yara Haddad",
+    "discharge_date": "2025-09-15",
+    "primary_diagnosis": "Breast Abscess — I&D completed, cultures obtained",
+    "medications": [
+      "Amoxicillin-clavulanate 875/125 mg twice daily for 7–10 days",
+      "Acetaminophen for pain"
+    ],
+    "dietary_restrictions": "No specific restrictions; breastfeeding guidance provided if applicable",
+    "follow_up": "Surgical or breast clinic in 48–72 hours",
+    "warning_signs": "Increasing pain, fever, spreading redness, increased drainage",
+    "discharge_instructions": "Keep dressing clean; continue antibiotics; lactation support if breastfeeding"
+  },
+  {
+    "patient_name": "Victor Silva",
+    "discharge_date": "2024-07-08",
+    "primary_diagnosis": "Localized Rheumatoid Arthritis Flare — outpatient DMARDs resumed",
+    "medications": [
+      "Prednisone 10 mg daily short course then taper",
+      "Resume methotrexate 15 mg weekly (per rheumatology)"
+    ],
+    "dietary_restrictions": "Avoid alcohol while on methotrexate; maintain balanced diet",
+    "follow_up": "Rheumatology in 2 weeks; lab monitoring arranged",
+    "warning_signs": "Fever, new infections, unusual bruising or bleeding, severe GI symptoms",
+    "discharge_instructions": "Follow up for lab monitoring; avoid live vaccines while immunosuppressed; report signs of infection promptly"
+  },
+  {
+    "patient_name": "Fatoumata Diallo",
+    "discharge_date": "2025-05-27",
+    "primary_diagnosis": "Early-stage Sepsis (source: urinary) — stabilized and completed IV therapy",
+    "medications": [
+      "Oral antibiotic to complete course per urine culture sensitivities",
+      "Acetaminophen as needed"
+    ],
+    "dietary_restrictions": "Maintain hydration and balanced diet",
+    "follow_up": "Primary care or infectious disease in 3–7 days",
+    "warning_signs": "Fever, persistent tachycardia, lightheadedness, decreased urine output",
+    "discharge_instructions": "Finish antibiotics; monitor temperature and urine output; seek urgent care for signs of recurrent sepsis"
+  }
+]
